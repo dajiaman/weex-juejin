@@ -1,0 +1,8 @@
+{
+	"name": "weex-juejin",
+	"appName": "仿掘金",
+	"applicationID": "app.dajiaman.weex_jujin",
+	"bundleIdentifier": "app.dajiaman.weex_jujin",
+	"release": "2.3.2",
+	"location": "eeui"
+}
